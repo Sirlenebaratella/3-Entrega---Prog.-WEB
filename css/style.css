@@ -1,0 +1,9 @@
+body{
+    margin: 100px;
+    padding: 0;
+    background: #76a0cf;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000000; 
+}
